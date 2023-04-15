@@ -1,0 +1,29 @@
+body{
+    display: flex;
+   
+    align-items: center;
+   
+    width: 100%;
+    background-color: gainsboro;
+}
+.container{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.buttun{
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.btn{
+    background-color: red;
+    width: 150px;
+    height: 30px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}

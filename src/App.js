@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import BackgroundcolorChange from './Components/Question3/BackgroundcolorChange';
+import ComponentA from './Components/Question2/ComponentA';
+import QuestionOne from './../src/Components/Question1/questionOne';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='conatiner' >
+    <QuestionOne/>
+     <ComponentA/>
+     <BackgroundcolorChange/>
     </div>
   );
 }
