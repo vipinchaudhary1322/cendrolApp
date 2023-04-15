@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vipinchaudhary1322/cendrolApp.git/static/css/main.4c3682f5.css",
-    "main.js": "/vipinchaudhary1322/cendrolApp.git/static/js/main.845235c8.js",
-    "index.html": "/vipinchaudhary1322/cendrolApp.git/index.html",
-    "main.4c3682f5.css.map": "/vipinchaudhary1322/cendrolApp.git/static/css/main.4c3682f5.css.map",
-    "main.845235c8.js.map": "/vipinchaudhary1322/cendrolApp.git/static/js/main.845235c8.js.map"
+    "main.css": "/cendrolApp/static/css/main.4c3682f5.css",
+    "main.js": "/cendrolApp/static/js/main.845235c8.js",
+    "index.html": "/cendrolApp/index.html",
+    "main.4c3682f5.css.map": "/cendrolApp/static/css/main.4c3682f5.css.map",
+    "main.845235c8.js.map": "/cendrolApp/static/js/main.845235c8.js.map"
   },
   "entrypoints": [
     "static/css/main.4c3682f5.css",
